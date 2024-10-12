@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Project A",
+      "dueDate": "2024-12-01",
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "name": "Project B",
+      "dueDate": "2024-10-15",
+      "status": "completed"
+    },
+    {
+      "name": "project add new",
+      "dueDate": "2024-10-18",
+      "status": "active",
+      "id": 3
+    }
+  ],
+  "payments": [
+    {
+      "amount": 1000,
+      "status": "paid",
+      "id": 1
+    },
+    {
+      "amount": 10000,
+      "status": "unpaid",
+      "id": 2
+    },
+    {
+      "amount": 10000,
+      "status": "paid",
+      "id": 3
+    }
+  ]
+}
